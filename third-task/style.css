@@ -1,0 +1,34 @@
+div{
+    display: flex;
+    padding: 20px 7.5px;
+    margin: 10px;
+    border: 5px solid black;
+}
+
+span.odd{
+    padding: 10px;
+    margin:  0px 10px;
+    border: 5px solid red;
+}
+
+span.even{
+    padding: 10px;
+    margin: 0px 10px;
+    border: 5px dashed blue;
+}
+
+p{
+    color: orange;
+}
+
+span.odd hr{
+    border: 2.5px solid red;
+}
+
+span.even hr{
+    border: 2.5px dashed blue;
+}
+
+ol{
+    padding: 20px;
+}
